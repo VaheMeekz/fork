@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "20012021",
+    "database": "fork",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "20012021",
+    "database": "fork",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "qogcgcvngmbtxy",
+    "password": "07b0c2834f097e74b349d65c4e7208e34dfc9495a5801f7dc1d3f2b0c7191da9",
+    "database": "db6k7p6ov7h9ne",
+    "host": "ec2-44-196-244-150.compute-1.amazonaws.com",
+    "dialect": "postgres"
+  }
+}
